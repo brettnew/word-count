@@ -24,6 +24,7 @@ The program should handle: | Example Input | Example Output
 ----- | ----- | -----
 The program will take the user's input word and compare it to the second input, and say how many times it appears in the second input | Input: "cat", "cat" | Output: 1
 The program will take the user's input word and compare it to the second input, and say how many times it appears in the second input, accounting for multiple instances | Input: "cat", "Your cat is a bad cat" | Output: 2
+The program will take the user's input word and compare it to the second input, and say how many times it appears in the second input, accounting for capitalization, spaces, and punctuation | Input: "cat", "Your CAT is a bad      cat!" | Output: 2
 
 ## Support and Contact Details
 
