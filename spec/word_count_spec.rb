@@ -17,7 +17,7 @@ describe('String#word_count') do
   it('will account for random capitalization') do
     expect('cAt'.word_count('good cat bad Cat mad caT sad CAT')).to(eq(4))
   end
-  # it('will account for punctuation') do
-  #   expect('fight'.word_count('fight the good fight!')).to(eq(2))
-  # end
+  it('will account for punctuation and spaces') do
+    expect('fight'.word_count('fight   fight!!!!!       the good fight!')).to(eq(3))
+  end
 end
