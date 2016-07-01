@@ -1,0 +1,32 @@
+body {
+  background-color: #ff4081;
+}
+
+h1, p, h2 {
+  text-align: center;
+  color: #ffffff;
+}
+
+h1 {
+ font-family: 'Bungee', cursive;
+ font-size: 86px;
+ color: #b199ff;
+}
+
+.text, h2 {
+  font-family: 'Arimo', sans-serif;
+  font-size: 26px;
+  padding-top: 34px;
+  color: #ffffff;
+}
+
+.form-group {
+  padding-top: 34px;
+}
+
+.btn {
+  width: 60px;
+  margin-left: 43%;
+  margin-top: 30px;
+  background-color: #b199ff;
+}
