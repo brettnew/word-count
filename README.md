@@ -43,7 +43,7 @@ Git Hub Webpage: https://brettnew.github.io/word-count
 
 Git Hub Repository: https://github.com/brettnew/word-count
 
-Heroku app: 
+Heroku app: https://hudson-sorry-33679.herokuapp.com/
 
 ### License
 
