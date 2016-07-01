@@ -16,17 +16,21 @@ h1 {
 .text, h2 {
   font-family: 'Arimo', sans-serif;
   font-size: 26px;
-  padding-top: 34px;
+  padding-top: 56px;
   color: #ffffff;
 }
 
 .form-group {
-  padding-top: 34px;
+  padding-top: 56px;
+}
+
+.input-label {
+  margin-bottom: 20px;
 }
 
 .btn {
   width: 60px;
   margin-left: 43%;
-  margin-top: 30px;
+  margin-top: 50px;
   background-color: #b199ff;
 }
