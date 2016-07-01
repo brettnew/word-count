@@ -1,0 +1,14 @@
+@font-face {
+  font-family: headlineFont;
+  src: url(Bungee-Regular.ttf);
+  font-family: textFont;
+  src: url(Athiti-Regular.ttf);
+}
+
+h1, h5 {
+  text-align: center
+}
+
+ h1 {
+   font-family: headlineFont;
+ }
